@@ -17,6 +17,6 @@ public class TennisCoach implements Coach {
 
     @Override
     public String getDailyFortune() {
-        return "";
+        return "I love today ";
     }
 }
